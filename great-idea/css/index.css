@@ -201,7 +201,7 @@ header .logo {
 }
 
 .main-content {
-  border-top: 1px solid black;
+  border-top: 1px solid black
   margin-top: 76px;
   padding-top: 39px;
 }
@@ -237,7 +237,7 @@ header .logo {
 }
 
 .main-content .bottom-content .text-content {
-  width: 275px;
+  width: 277px;
   margin-right: 12px;
 }
 
